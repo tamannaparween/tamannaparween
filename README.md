@@ -95,14 +95,17 @@
 </p>
 
 ---
-
-### 🎯 Currently Focusing
+### 🎯 Currently Focusing: Software Development + AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_System_Design-FF6B6B?style=flat-square&logo=architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/📈_DSA-4ECDC4?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀_Open_Source-FFE66D?style=flat-square&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/💼_First_Dev_Role-1A535C?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Integrated_Apps-🤖-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-🧠-4ECDC4?style=flat-square" />
+  <img src="https://img.shields.io/badge/GenAI_Tools-⚡-FFE66D?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Code_Assistants-🔧-1A535C?style=flat-square" />
+</p>
+
+<p align="center">
+  🚀 <b>Building AI-powered features</b> • 🤖 <b>Prompt engineering</b> • ⚡ <b>Faster development with AI tools</b>
 </p>
 
 ---
