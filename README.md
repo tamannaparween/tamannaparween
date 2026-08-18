@@ -71,12 +71,7 @@
         <br/><br/>
         <img src="https://img.shields.io/badge/🟢_Live_Demo-coming_soon-grey?style=flat-square" />
       </td>
-      <td align="center" width="33%">
-        <b>☕ Responsive Coffee Website</b><br/>
-        <sub>HTML5 · CSS3 · JS · Modern UI/UX</sub>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🟢_Live_Demo-coming_soon-grey?style=flat-square" />
-      </td>
+</td> <td align="center" width="33%"> <b>☕ Responsive Coffee Website</b><br/> <sub>HTML5 · CSS3 · JS · Modern UI/UX</sub> <br/><br/> <a href="https://tamannaparween.github.io/Coffee-website/"> <img src="https://img.shields.io/badge/🟢_Live_Demo-view_site-2ea44f?style=flat-square" /> </a> </td>
     </tr>
   </table>
 </div>
