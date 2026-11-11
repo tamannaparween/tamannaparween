@@ -1,9 +1,9 @@
-<!---
+<!--
 ╔═══════════════════════════════════════════════════════════════╗
-║                    T A M A N N A   P A R W E E N               ║
-║              full-stack developer · problem solver             ║
+║                    T A M A N N A   P A R W E E N              ║
+║              full-stack developer · problem solver            ║
 ╚═══════════════════════════════════════════════════════════════╝
---->
+-->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Tamanna+Parween;Full-Stack+Developer" alt="Typing Animation" />
@@ -42,7 +42,6 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,cpp,c,html,css,bootstrap,tailwind,git,github,vscode,linux" />
 </p>
 
-<!-- Hover-animated tech badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=white" />
@@ -59,19 +58,35 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <b>📁 Dynamic Portfolio</b><br/>
-        <sub>ReactJS · REST APIs · Performance Optimization</sub>
+      <td align="center" width="50%">
+        <h3>🌿 Lush Living</h3>
+        <p>Modern Plant E-Commerce Storefront</p>
+        <sub>React 19 · TypeScript · Vite · Tailwind CSS v4 · Zustand · TanStack Router</sub>
+        <br/><br/>
+        <a href="https://github.com/tamannaparween/Lush-Living">
+          <img src="https://img.shields.io/badge/📁_GitHub-View_Repository-181717?style=for-the-badge&logo=github" />
+        </a>
+        <br/><br/>
+        <sub>Responsive storefront · Product management · Shopping cart · Checkout · Admin dashboard</sub>
+      </td>
+      <td align="center" width="50%">
+        <h3>🎮 Interactive Web Apps</h3>
+        <p>Interactive JavaScript Applications</p>
+        <sub>JavaScript · OOP · Cross-Browser Compatibility</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/🟢_Live_Demo-coming_soon-grey?style=flat-square" />
       </td>
-      <td align="center" width="33%">
-        <b>🎮 Interactive Web Apps</b><br/>
-        <sub>JavaScript · OOP · Cross‑browser Compatible</sub>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>☕ Responsive Coffee Website</h3>
+        <p>Modern and Responsive Website Design</p>
+        <sub>HTML5 · CSS3 · JavaScript · Modern UI/UX</sub>
         <br/><br/>
-        <img src="https://img.shields.io/badge/🟢_Live_Demo-coming_soon-grey?style=flat-square" />
+        <a href="https://tamannaparween.github.io/Coffee-website/">
+          <img src="https://img.shields.io/badge/🟢_Live_Demo-view_site-2ea44f?style=flat-square" />
+        </a>
       </td>
-</td> <td align="center" width="33%"> <b>☕ Responsive Coffee Website</b><br/> <sub>HTML5 · CSS3 · JS · Modern UI/UX</sub> <br/><br/> <a href="https://tamannaparween.github.io/Coffee-website/"> <img src="https://img.shields.io/badge/🟢_Live_Demo-view_site-2ea44f?style=flat-square" /> </a> </td>
     </tr>
   </table>
 </div>
@@ -90,6 +105,7 @@
 </p>
 
 ---
+
 ### 🎯 Currently Focusing: Software Development + AI
 
 <p align="center">
@@ -127,7 +143,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tamanna3011&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tamannaparween&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
